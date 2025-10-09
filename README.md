@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juan Lucas Barbier</h1>
+<h1 align="center">Hi 👋, I'm Juan Lucas Barbier COBOL guy</h1>
 <h3 align="center">I like building stuff for maintaining COBOL</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanlucasbg&label=Profile%20views&color=0e75b6&style=flat" alt="juanlucasbg" /> </p>
@@ -11,9 +11,15 @@
 
 - 🌱 I’m currently learning **ANTLR4**
 
+- 🤝 I’m looking for help with **creating static code analyzer with different grammars**
+
+- 📝 I regularly write articles on [cobolpro.com/blog](cobolpro.com/blog)
+
 - 💬 Ask me about **cobol ,mainframe as400 or CICS**
 
 - 📫 How to reach me **juan@cobolpro.com**
+
+- ⚡ Fun fact **People call me the COBOL guy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

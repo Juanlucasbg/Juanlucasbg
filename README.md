@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 Currently building **[CobolPro](https://github.com/juanlucasbg)**
+- 🔭 Currently building **CobolPro**
 - 🌱 Currently learning **React and Frontend Development**
 - 👯 Looking to collaborate on **Open-Source COBOL and Mainframe Projects**
 - 💬 Ask me about **COBOL, RPG, DB2, SPF and VSAM**
@@ -18,9 +18,7 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/jeanlucs" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </p>
 
 ---

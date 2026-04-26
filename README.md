@@ -1,151 +1,297 @@
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                         JUANLUCASBG 3270 TERMINAL README                      -->
+<!--                         PRIMARY LPAR: Z/OS LEGACY SYSTEMS                       -->
+<!--                         SECONDARY LPAR: MODERN CLOUD STACK                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6fdc8c,100:2d8a4e&height=200§ion=header&text=Juan%20Lucas&fontSize=60&fontColor=f8f8f7&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20COBOL%20%7C%20RPG%20%7C%20Legacy%20Systems&descSize=18&descAlignY=55" alt="header" />
-  <!-- Profile Views & Social Badges -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Juanlucasbg&label=Profile%20Views&color=6fdc8c&style=flat-square" alt="profile views" />
-    <img src="https://img.shields.io/github/followers/Juanlucasbg?label=Followers&style=flat-square&color=6fdc8c" alt="followers" />
-    <img src="https://img.shields.io/github/stars/Juanlucasbg?label=Stars&style=flat-square&color=6fdc8c" alt="stars" />
-    <img src="https://img.shields.io/badge/Focus-Legacy%20Modernization-6fdc8c?style=flat-square" alt="focus" />
-    <img src="https://img.shields.io/badge/Location-Remote-4f4f4f?style=flat-square" alt="location" />
-  </p>
-</div>
----
-## 🧑‍💻 About Me
-I am a **Backend Developer** specializing in **enterprise legacy systems** and **mainframe modernization**. My expertise bridges the gap between decades-old critical infrastructure and modern integration patterns.
-- 🔭 **Current Project:** Building **[CobolPro](https://github.com/Juanlucasbg)** — a suite of productivity tools for COBOL developers
-- 🌱 **Learning:** React, Frontend Development, and Cloud-Native Microservices
-- 👯 **Collaboration:** Open-source COBOL tooling, Mainframe emulation projects, and Legacy migration frameworks
-- 💬 **Expertise:** COBOL, RPG, DB2, ISPF/PDF, VSAM, CICS, JCL, z/OS utilities
-- 📫 **Contact:** [juanlucasbarbier05@gmail.com](mailto:juanlucasbarbier05@gmail.com)
-- ⚡ **Fun Fact:** I debug code older than I am — and make it faster.
----
-## 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Juanlucasbg&theme=onestar&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-  </a>
+<!-- IPL HEADER -->
+<pre style="font-family: 'Courier New', Courier, monospace; background: #0a0a0a; color: #33ff00; line-height: 1.2;">
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                                                                               ║
+║   ██╗██╗   ██╗ █████╗ ███╗   ██╗    ██╗     ██╗   ██╗ ██████╗ █████╗ ███████╗ ║
+║   ██║██║   ██║██╔══██╗████╗  ██║    ██║     ██║   ██║██╔════╝██╔══██╗██╔════╝ ║
+║   ██║██║   ██║███████║██╔██╗ ██║    ██║     ██║   ██║██║     ███████║███████╗ ║
+║   ██║██║   ██║██╔══██║██║╚██╗██║    ██║     ██║   ██║██║     ██╔══██║╚════██║ ║
+║   ██║╚██████╔╝██║  ██║██║ ╚████║    ███████╗╚██████╔╝╚██████╗██║  ██║███████║ ║
+║   ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝    ╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝ ║
+║                                                                               ║
+║              BACKEND DEVELOPER  ·  COBOL  ·  RPG  ·  LEGACY SYSTEMS            ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+</pre>
+<!-- LIVE STATUS LINE -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Juanlucasbg&label=TERMINAL%20SESSIONS&color=33ff00&style=flat-square" alt="terminal sessions" />
+  <img src="https://img.shields.io/github/followers/Juanlucasbg?label=ACTIVE%20USERS&style=flat-square&color=ffb000" alt="active users" />
+  <img src="https://img.shields.io/github/stars/Juanlucasbg?label=SYSTEM%20STARS&style=flat-square&color=33ff00" alt="system stars" />
+  <img src="https://img.shields.io/badge/LPAR-Z%2FOS%20LEGACY-33ff00?style=flat-square" alt="lpar legacy" />
+  <img src="https://img.shields.io/badge/LPAR-MODERN%20CLOUD-ffb000?style=flat-square" alt="lpar modern" />
 </p>
----
-## 📊 GitHub Analytics
+</div>
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- SYSTEM PARAMETERS PANEL                                                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<pre style="font-family: 'Courier New', Courier, monospace; background: #0a0a0a; color: #33ff00; line-height: 1.4;">
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│                              SYSTEM PARAMETERS                                  │
+├─────────────────────────────────────────────────────────────────────────────────┤
+│ USER ID  . . . . . . . . . : JUANLUC                                            │
+│ ROLE . . . . . . . . . . . : BACKEND DEVELOPER                                  │
+│ PRIMARY LPAR . . . . . . . : Z/OS LEGACY SYSTEMS                              │
+│ SECONDARY LPAR . . . . . . : MODERN CLOUD & WEB STACK                           │
+│ CURRENT PROJECT  . . . . . : COBOLPRO                                           │
+│ LEARNING TRACK . . . . . . : REACT / NEXT.JS / TYPESCRIPT                      │
+│ SYSTEM STATUS  . . . . . . : ONLINE                                             │
+│ COLLABORATION  . . . . . . : OPEN SOURCE COBOL & MAINFRAME PROJECTS             │
+│ CONTACT NODE . . . . . . . : juanlucasbarbier05@gmail.com                       │
+│ EXPERT DOMAINS . . . . . . : COBOL, RPG, DB2, SPF, VSAM, CICS, JCL             │
+└─────────────────────────────────────────────────────────────────────────────────┘
+</pre>
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- PF KEY LEGEND                                                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<pre style="font-family: 'Courier New', Courier, monospace; background: #0a0a0a; color: #ffb000; line-height: 1.2;">
+  [PF1] HELP    [PF2] SPLIT   [PF3] END     [PF4] STATS    [PF5] RFIND   [PF6] CHG
+  [PF7] BACK    [PF8] FWD     [PF9] SWAP    [PF10] ACT     [PF11] SCROLL [PF12] CNCL
+</pre>
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- DATASET ALLOCATION LIST (SKILLS MATRIX)                                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<pre style="font-family: 'Courier New', Courier, monospace; background: #0a0a0a; color: #33ff00; line-height: 1.4;">
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│                       DATASET ALLOCATION LIST (DSLIST)                          │
+│                    LEGACY LPAR: ZPROD1  |  MODERN LPAR: ZWEB1                   │
+├──────────────────┬──────────┬──────────────────────────────┬─────────────────────┤
+│ DSNAME           │ RECFM    │ UTILIZATION                  │ STATUS              │
+├──────────────────┼──────────┼──────────────────────────────┼─────────────────────┤
+│ JUANLUC.COBOL    │ COBOL    │ ████████████████████░░  95%  │ ACTIVE              │
+│ JUANLUC.RPG400   │ RPG      │ █████████████████░░░░░  88%  │ ACTIVE              │
+│ JUANLUC.JCL      │ JCL      │ ██████████████████░░░░  92%  │ ACTIVE              │
+│ JUANLUC.CICS     │ CICS     │ ████████████████░░░░░░  90%  │ ACTIVE              │
+│ JUANLUC.DB2      │ DB2      │ █████████████████░░░░░  90%  │ ACTIVE              │
+│ JUANLUC.VSAM     │ VSAM     │ ████████████████████░░  95%  │ ACTIVE              │
+│ JUANLUC.ISPF     │ ISPF     │ ████████████████████░░  96%  │ ACTIVE              │
+├──────────────────┼──────────┼──────────────────────────────┼─────────────────────┤
+│ JUANLUC.NEXTJS   │ TSX      │ ███████████████░░░░░░░  80%  │ DEVELOPMENT         │
+│ JUANLUC.REACT    │ JSX      │ ██████████████░░░░░░░░  78%  │ DEVELOPMENT         │
+│ JUANLUC.TYPESCRIPT│ TS      │ ███████████████░░░░░░░  82%  │ ACTIVE              │
+│ JUANLUC.PYTHON   │ PY       │ █████████████░░░░░░░░░  75%  │ ACTIVE              │
+│ JUANLUC.JAVA     │ JAVA     │ ██████████████░░░░░░░░  78%  │ ACTIVE              │
+│ JUANLUC.NODE     │ JS       │ ████████████░░░░░░░░░░  72%  │ ACTIVE              │
+├──────────────────┴──────────┴──────────────────────────────┴─────────────────────┤
+│ COMMAND ===>                                                                    │
+│   SCROLL ===> CSR                                                               │
+└─────────────────────────────────────────────────────────────────────────────────┘
+</pre>
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- SYSTEM ARCHITECTURE — ASCII FLOW DIAGRAM                                       -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<pre style="font-family: 'Courier New', Courier, monospace; background: #0a0a0a; color: #ffb000; line-height: 1.2;">
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                        SYSTEM ARCHITECTURE — LPAR VIEW                          ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║                                                                               ║
+║    ┌─────────────┐           MQ/API GATEWAY            ┌─────────────────┐     ║
+║    │  z/OS LPAR  │ ◄──────────────────────────────►    │ DISTRIBUTED LPAR│     ║
+║    │             │                                    │                 │     ║
+║    │  COBOL/CICS │        VSAM ──► REST API         │  Java Gateway   │     ║
+║    │    RPG      │        DB2  ──► GraphQL          │  Python ETL     │     ║
+║    │    JCL      │        MQ   ──► Event Stream      │  Node.js BFF    │     ║
+║    │   VSAM      │                                    │                 │     ║
+║    └─────────────┘                                    └────────┬────────┘     ║
+║                                                                │              ║
+║                                                    ┌───────────┴───────────┐  ║
+║                                                    │     MODERN FRONTEND   │  ║
+║                                                    │   Next.js / React     │  ║
+║                                                    │   TypeScript SDK      │  ║
+║                                                    └───────────────────────┘  ║
+║                                                                               ║
+║    LEGACY STACK: COBOL, RPG, JCL, CICS, VSAM, DB2, ISPF                       ║
+║    MODERN STACK: Next.js, React, TypeScript, Python, Java, Node.js            ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+</pre>
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- SPLIT SCREEN ANALYTICS — PF2 SPLIT                                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<pre style="font-family: 'Courier New', Courier, monospace; background: #0a0a0a; color: #33ff00; line-height: 1.2;">
+┌────────────────────────────────────────┬────────────────────────────────────────┐
+│  PANEL 1: LEGACY LPAR STATISTICS       │  PANEL 2: MODERN LPAR STREAK          │
+│  COLOR: GREEN (#33ff00)                │  COLOR: AMBER (#ffb000)               │
+├────────────────────────────────────────┼────────────────────────────────────────┤
+</pre>
 <table width="100%">
   <tr>
-    <td width="50%">
-      <h3 align="center">📈 Contribution Stats</h3>
-      <p align="center">
+    <td width="50%" valign="top">
+      <div align="center">
+        <p><strong style="font-family: 'Courier New', monospace; color: #33ff00;">► COMMIT STATISTICS ◄</strong></p>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=Juanlucasbg&show_icons=true&theme=transparent&title_color=f8f8f7&text_color=c6c6c6&icon_color=6fdc8c&border_color=4f4f4f&bg_color=00000000&hide_border=false&rank_icon=github" alt="GitHub Stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=Juanlucasbg&show_icons=true&theme=dark&title_color=33ff00&text_color=c6c6c6&icon_color=33ff00&border_color=33ff00&bg_color=0a0a0a&hide_border=false&rank_icon=github&custom_title=Z%2FOS%20CONTRIBUTION%20STATS" alt="GitHub Stats" />
         </a>
-      </p>
+      </div>
     </td>
-    <td width="50%">
-      <h3 align="center">🔥 Contribution Streak</h3>
-      <p align="center">
+    <td width="50%" valign="top">
+      <div align="center">
+        <p><strong style="font-family: 'Courier New', monospace; color: #ffb000;">► CONSISTENCY STREAK ◄</strong></p>
         <a href="https://git.io/streak-stats">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juanlucasbg&hide_border=true&background=00000000&stroke=4f4f4f&ring=6fdc8c&fire=6fdc8c&currStreakLabel=f8f8f7&sideLabels=c6c6c6&currStreakNum=f8f8f7&sideNums=f8f8f7&dates=c6c6c6" alt="GitHub Streak" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juanlucasbg&hide_border=true&background=0a0a0a&stroke=ffb000&ring=33ff00&fire=ffb000&currStreakLabel=33ff00&sideLabels=c6c6c6&currStreakNum=33ff00&sideNums=f8f8f7&dates=c6c6c6" alt="GitHub Streak" />
         </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📉 Top Languages</h3>
-      <p align="center">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanlucasbg&count_private=true&show_icons=true&layout=compact&theme=transparent&title_color=f8f8f7&text_color=c6c6c6&icon_color=6fdc8c&border_color=4f4f4f&bg_color=00000000&langs_count=10" alt="Top Languages" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📊 Contribution Graph</h3>
-      <p align="center">
-        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=Juanlucasbg&theme=react-dark&bg_color=00000000&hide_border=true&area=true&color=6fdc8c&line=6fdc8c&point=f8f8f7" alt="Activity Graph" />
-        </a>
-      </p>
+      </div>
     </td>
   </tr>
 </table>
----
-## 💻 Tech Stack & Tools
-### 🧮 Legacy & Mainframe
-<p align="left">
-  <img src="https://img.shields.io/badge/COBOL-0055A4?style=for-the-badge&logoColor=white" alt="COBOL" />
-  <img src="https://img.shields.io/badge/RPG-1E4D2B?style=for-the-badge&logoColor=white" alt="RPG" />
-  <img src="https://img.shields.io/badge/JCL-0078D4?style=for-the-badge&logoColor=white" alt="JCL" />
-  <img src="https://img.shields.io/badge/CICS-054ADA?style=for-the-badge&logoColor=white" alt="CICS" />
-  <img src="https://img.shields.io/badge/VSAM-4B8BBE?style=for-the-badge&logoColor=white" alt="VSAM" />
-  <img src="https://img.shields.io/badge/DB2-0078D4?style=for-the-badge&logo=ibm&logoColor=white" alt="DB2" />
-  <img src="https://img.shields.io/badge/ISPF-CC0000?style=for-the-badge&logoColor=white" alt="ISPF" />
-  <img src="https://img.shields.io/badge/z%2FOS-000000?style=for-the-badge&logo=ibm&logoColor=white" alt="z/OS" />
-</p>
-### 🌐 Modern & Web
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-### 🛠️ DevOps & Tooling
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
----
-## 🌐 Connect With Me
-<p align="left">
-  <a href="mailto:juanlucasbarbier05@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+<pre style="font-family: 'Courier New', Courier, monospace; background: #0a0a0a; color: #33ff00; line-height: 1.2;">
+├────────────────────────────────────────┼────────────────────────────────────────┤
+│  PANEL 3: LANGUAGE UTILIZATION         │  PANEL 4: ACTIVITY HEATMAP            │
+│  COLOR: GREEN / AMBER MIX              │  COLOR: GREEN (#33ff00)               │
+├────────────────────────────────────────┼────────────────────────────────────────┤
+</pre>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <p><strong style="font-family: 'Courier New', monospace; color: #33ff00;">► TOP LANGUAGES (DSORT) ◄</strong></p>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanlucasbg&count_private=true&show_icons=true&layout=compact&theme=dark&title_color=33ff00&text_color=c6c6c6&icon_color=33ff00&border_color=ffb000&bg_color=0a0a0a&langs_count=10&custom_title=LANGUAGE%20UTILIZATION" alt="Top Languages" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <p><strong style="font-family: 'Courier New', monospace; color: #33ff00;">► ACTIVITY HEATMAP ◄</strong></p>
+        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=Juanlucasbg&theme=github-compact&bg_color=0a0a0a&hide_border=true&area=true&color=33ff00&line=33ff00&point=ffb000&custom_title=CONTRIBUTION%20HEATMAP" alt="Activity Graph" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+<pre style="font-family: 'Courier New', Courier, monospace; background: #0a0a0a; color: #33ff00; line-height: 1.2;">
+└────────────────────────────────────────┴────────────────────────────────────────┘
+</pre>
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- TROPHY CASE — SYSTEM ACHIEVEMENTS                                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<pre style="font-family: 'Courier New', Courier, monospace; background: #0a0a0a; color: #ffb000; line-height: 1.2;">
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                        SYSTEM ACHIEVEMENTS (TROPHIES)                         ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+</pre>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Juanlucasbg&theme=matrix&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</div>
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- CONTRIBUTION SNAKE — SYSTEM LOG VIEWER                                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<pre style="font-family: 'Courier New', Courier, monospace; background: #0a0a0a; color: #33ff00; line-height: 1.2;">
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                    SYSTEM LOG VIEWER — CONTRIBUTION SNAKE                       ║
+║                         FILE: SYS1.LOGREC(GITHUB)                             ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+</pre>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juanlucasbg/Juanlucasbg/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Juanlucasbg/Juanlucasbg/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Juanlucasbg/Juanlucasbg/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- WAKATIME METRICS — SYSTEM MONITOR                                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<pre style="font-family: 'Courier New', Courier, monospace; background: #0a0a0a; color: #33ff00; line-height: 1.2;">
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                         WAKATIME SYSTEM MONITOR                               ║
+║                    CODING HOURS BY LANGUAGE (WEEKLY)                            ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+</pre>
+<div align="center">
+  <a href="https://wakatime.com/@Juanlucasbg">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Juanlucasbg&theme=dark&title_color=33ff00&text_color=c6c6c6&border_color=ffb000&bg_color=0a0a0a&layout=compact&custom_title=CODING%20METRICS%20(WAKATIME)" alt="WakaTime Stats" />
   </a>
-  <a href="https://github.com/Juanlucasbg" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
----
-## 📈 Coding Metrics
-<!--START_SECTION:waka-->
-<!-- If you integrate WakaTime, your coding metrics will appear here automatically -->
-<!--END_SECTION:waka-->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Juanlucasbg&theme=transparent&title_color=f8f8f7&text_color=c6c6c6&border_color=4f4f4f&bg_color=00000000&layout=compact" alt="WakaTime Stats" />
-</p>
----
-## 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juanlucasbg/Juanlucasbg/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Juanlucasbg/Juanlucasbg/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Juanlucasbg/Juanlucasbg/output/github-contribution-grid-snake.svg" />
-</picture>
----
-## 🎯 Current Focus & Roadmap
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#6fdc8c', 'primaryTextColor': '#f8f8f7', 'primaryBorderColor': '#4f4f4f', 'lineColor': '#6fdc8c', 'secondaryColor': '#2d8a4e', 'tertiaryColor': '#1a5230'}}}%%
-gantt
-    title 2025 Development Roadmap
-    dateFormat  YYYY-MM-DD
-    section Legacy
-    CobolPro Core           :a1, 2025-01-01, 120d
-    VSAM Migration Tools    :a2, 2025-03-01, 90d
-    section Modern
-    React Dashboard         :b1, 2025-02-15, 90d
-    API Integration Layer   :b2, 2025-04-01, 60d
-```
-> 💡 *Note: To enable the Mermaid diagram rendering, install a Mermaid renderer in your GitHub profile or use the [GitHub + Mermaid extension](https://github.com/BackMarket/github-mermaid-extension).*
----
-## 📂 Featured Projects
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| **CobolPro** | Productivity toolkit for COBOL developers | COBOL, JCL, React | 🚧 In Progress |
-| **LegacyBridge** | Modern API layer for mainframe systems | Node.js, DB2, CICS | 📋 Planning |
-| **VSAM-Explorer** | Web-based VSAM dataset navigator | React, Node.js | 📋 Planning |
----
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6fdc8c,100:2d8a4e&height=120§ion=footer&animation=fadeIn" alt="footer" />
-</p>
+</div>
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- TECH STACK — SYSTEM CATALOG                                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<pre style="font-family: 'Courier New', Courier, monospace; background: #0a0a0a; color: #33ff00; line-height: 1.4;">
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│                           SYSTEM CATALOG (TECH STACK)                           │
+├─────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                 │
+│  ┌─ LEGACY LPAR (ZPROD1) ────────────────────────────────────────────────┐    │
+│  │                                                                          │    │
+│  │   COBOL          RPG IV         JCL           CICS          VSAM         │    │
+│  │   ████████       ██████░░       ████████      ██████░░      ████████     │    │
+│  │                                                                          │    │
+│  │   DB2 z/OS       ISPF/PDF       z/OS Utils    MQ Series     IMS           │    │
+│  │   ████████       ████████       ██████░░      ████░░░░      ████░░░░     │    │
+│  │                                                                          │    │
+│  └──────────────────────────────────────────────────────────────────────────┘    │
+│                                                                                 │
+│  ┌─ MODERN LPAR (ZWEB1) ─────────────────────────────────────────────────────┐    │
+│  │                                                                          │    │
+│  │   NEXT.JS        REACT          TYPESCRIPT     NODE.JS        PYTHON      │    │
+│  │   ██████░░       ██████░░       ███████░      █████░░░       █████░░░     │    │
+│  │                                                                          │    │
+│  │   JAVA           HTML5          CSS3          JAVASCRIPT    DOCKER       │    │
+│  │   ██████░░       ████████       ████████      ███████░       █████░░░     │    │
+│  │                                                                          │    │
+│  │   LINUX          GIT            VS CODE        GITHUB        SQL          │    │
+│  │   ████████       ████████       ████████       ████████       ████████     │    │
+│  │                                                                          │    │
+│  └──────────────────────────────────────────────────────────────────────────┘    │
+│                                                                                 │
+└─────────────────────────────────────────────────────────────────────────────────┘
+</pre>
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- CONNECT — TSO COMMAND INTERFACE                                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<pre style="font-family: 'Courier New', Courier, monospace; background: #0a0a0a; color: #33ff00; line-height: 1.4;">
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│                        TSO COMMAND INTERFACE (CONNECT)                          │
+├─────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                 │
+│   COMMAND ===> SEND MAIL juanlucasbarbier05@gmail.com                            │
+│   RESPONSE: MESSAGE QUEUED TO SMTP NODE. MSGID: IBM0012345                      │
+│                                                                                 │
+│   COMMAND ===> TSO LINKEDIN juan-lucas-barbier                                    │
+│   RESPONSE: VTAM SESSION ESTABLISHED TO LINKEDIN.COM                            │
+│                                                                                 │
+│   COMMAND ===> TSO GITHUB Juanlucasbg                                           │
+│   RESPONSE: APPC CONVERSATION ACTIVE. REPO ACCESS: GRANTED                      │
+│                                                                                 │
+│   COMMAND ===> TSO WAKATIME Juanlucasbg                                         │
+│   RESPONSE: RMF DATA COLLECTION ENABLED FOR CODING METRICS                        │
+│                                                                                 │
+└─────────────────────────────────────────────────────────────────────────────────┘
+</pre>
+<div align="center">
+  <p>
+    <a href="mailto:juanlucasbarbier05@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/SEND_MAIL-33ff00?style=for-the-badge&logo=gmail&logoColor=0a0a0a&labelColor=33ff00" alt="Gmail" />
+    </a>
+    <a href="#" target="_blank">
+      <img src="https://img.shields.io/badge/TSO_LINKEDIN-ffb000?style=for-the-badge&logo=linkedin&logoColor=0a0a0a&labelColor=ffb000" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/Juanlucasbg" target="_blank">
+      <img src="https://img.shields.io/badge/TSO_GITHUB-33ff00?style=for-the-badge&logo=github&logoColor=0a0a0a&labelColor=33ff00" alt="GitHub" />
+    </a>
+  </p>
+</div>
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- FOOTER — SYSTEM STATUS LINE                                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<pre style="font-family: 'Courier New', Courier, monospace; background: #0a0a0a; color: #33ff00; line-height: 1.2;">
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║  COMMAND ===> ____________________________________________________________  ║
+║                                                                             ║
+║  SYSTEM READY                                          JUANLUC   TSO 001    ║
+║  PF1=HELP  PF2=SPLIT  PF3=END  PF4=STATS  PF5=RFIND  PF6=CHANGE  PF12=CNCL  ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+</pre>
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- END OF JUANLUCASBG 3270 TERMINAL SESSION                                      -->
+<!-- LOGOFF SUCCESSFUL. SESSION TERMINATED.                                         -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->

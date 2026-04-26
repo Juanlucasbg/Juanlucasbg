@@ -3,7 +3,9 @@
 <!--                         PRIMARY LPAR: Z/OS LEGACY SYSTEMS                       -->
 <!--                         SECONDARY LPAR: MODERN CLOUD STACK                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
+
 <!-- IPL HEADER -->
 <pre style="font-family: 'Courier New', Courier, monospace; background: #0a0a0a; color: #33ff00; line-height: 1.2;">
 ╔═══════════════════════════════════════════════════════════════════════════════╗
@@ -19,18 +21,22 @@
 ║                                                                               ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 </pre>
+
 <!-- LIVE STATUS LINE -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=Juanlucasbg&label=TERMINAL%20SESSIONS&color=33ff00&style=flat-square" alt="terminal sessions" />
-  <img src="https://img.shields.io/github/followers/Juanlucasbg?label=ACTIVE%20USERS&style=flat-square&color=ffb000" alt="active users" />
+  <img src="https://img.shields.io/github/followers/Juanlucasbg?label=ACTIVE%20USERS&style=flat-square&color=33ff00" alt="active users" />
   <img src="https://img.shields.io/github/stars/Juanlucasbg?label=SYSTEM%20STARS&style=flat-square&color=33ff00" alt="system stars" />
   <img src="https://img.shields.io/badge/LPAR-Z%2FOS%20LEGACY-33ff00?style=flat-square" alt="lpar legacy" />
-  <img src="https://img.shields.io/badge/LPAR-MODERN%20CLOUD-ffb000?style=flat-square" alt="lpar modern" />
+  <img src="https://img.shields.io/badge/LPAR-MODERN%20CLOUD-33ff00?style=flat-square" alt="lpar modern" />
 </p>
+
 </div>
+
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- SYSTEM PARAMETERS PANEL                                                        -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
 <pre style="font-family: 'Courier New', Courier, monospace; background: #0a0a0a; color: #33ff00; line-height: 1.4;">
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                              SYSTEM PARAMETERS                                  │
@@ -47,16 +53,20 @@
 │ EXPERT DOMAINS . . . . . . : COBOL, RPG, DB2, SPF, VSAM, CICS, JCL             │
 └─────────────────────────────────────────────────────────────────────────────────┘
 </pre>
+
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- PF KEY LEGEND                                                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<pre style="font-family: 'Courier New', Courier, monospace; background: #0a0a0a; color: #ffb000; line-height: 1.2;">
+
+<pre style="font-family: 'Courier New', Courier, monospace; background: #0a0a0a; color: #33ff00; line-height: 1.2;">
   [PF1] HELP    [PF2] SPLIT   [PF3] END     [PF4] STATS    [PF5] RFIND   [PF6] CHG
   [PF7] BACK    [PF8] FWD     [PF9] SWAP    [PF10] ACT     [PF11] SCROLL [PF12] CNCL
 </pre>
+
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- DATASET ALLOCATION LIST (SKILLS MATRIX)                                        -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
 <pre style="font-family: 'Courier New', Courier, monospace; background: #0a0a0a; color: #33ff00; line-height: 1.4;">
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                       DATASET ALLOCATION LIST (DSLIST)                          │
@@ -83,10 +93,12 @@
 │   SCROLL ===> CSR                                                               │
 └─────────────────────────────────────────────────────────────────────────────────┘
 </pre>
+
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- SYSTEM ARCHITECTURE — ASCII FLOW DIAGRAM                                       -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<pre style="font-family: 'Courier New', Courier, monospace; background: #0a0a0a; color: #ffb000; line-height: 1.2;">
+
+<pre style="font-family: 'Courier New', Courier, monospace; background: #0a0a0a; color: #33ff00; line-height: 1.2;">
 ╔═══════════════════════════════════════════════════════════════════════════════╗
 ║                        SYSTEM ARCHITECTURE — LPAR VIEW                          ║
 ╠═══════════════════════════════════════════════════════════════════════════════╣
@@ -111,15 +123,18 @@
 ║                                                                               ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 </pre>
+
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- SPLIT SCREEN ANALYTICS — PF2 SPLIT                                            -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
 <pre style="font-family: 'Courier New', Courier, monospace; background: #0a0a0a; color: #33ff00; line-height: 1.2;">
 ┌────────────────────────────────────────┬────────────────────────────────────────┐
 │  PANEL 1: LEGACY LPAR STATISTICS       │  PANEL 2: MODERN LPAR STREAK          │
-│  COLOR: GREEN (#33ff00)                │  COLOR: AMBER (#ffb000)               │
+│  COLOR: GREEN (#33ff00)                │  COLOR: GREEN (#33ff00)               │
 ├────────────────────────────────────────┼────────────────────────────────────────┤
 </pre>
+
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -132,27 +147,29 @@
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <p><strong style="font-family: 'Courier New', monospace; color: #ffb000;">► CONSISTENCY STREAK ◄</strong></p>
+        <p><strong style="font-family: 'Courier New', monospace; color: #33ff00;">► CONSISTENCY STREAK ◄</strong></p>
         <a href="https://git.io/streak-stats">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juanlucasbg&hide_border=true&background=0a0a0a&stroke=ffb000&ring=33ff00&fire=ffb000&currStreakLabel=33ff00&sideLabels=c6c6c6&currStreakNum=33ff00&sideNums=f8f8f7&dates=c6c6c6" alt="GitHub Streak" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juanlucasbg&hide_border=true&background=0a0a0a&stroke=33ff00&ring=33ff00&fire=33ff00&currStreakLabel=33ff00&sideLabels=c6c6c6&currStreakNum=33ff00&sideNums=f8f8f7&dates=c6c6c6" alt="GitHub Streak" />
         </a>
       </div>
     </td>
   </tr>
 </table>
+
 <pre style="font-family: 'Courier New', Courier, monospace; background: #0a0a0a; color: #33ff00; line-height: 1.2;">
 ├────────────────────────────────────────┼────────────────────────────────────────┤
 │  PANEL 3: LANGUAGE UTILIZATION         │  PANEL 4: ACTIVITY HEATMAP            │
-│  COLOR: GREEN / AMBER MIX              │  COLOR: GREEN (#33ff00)               │
+│  COLOR: GREEN (#33ff00)                │  COLOR: GREEN (#33ff00)               │
 ├────────────────────────────────────────┼────────────────────────────────────────┤
 </pre>
+
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <div align="center">
         <p><strong style="font-family: 'Courier New', monospace; color: #33ff00;">► TOP LANGUAGES (DSORT) ◄</strong></p>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanlucasbg&count_private=true&show_icons=true&layout=compact&theme=dark&title_color=33ff00&text_color=c6c6c6&icon_color=33ff00&border_color=ffb000&bg_color=0a0a0a&langs_count=10&custom_title=LANGUAGE%20UTILIZATION" alt="Top Languages" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanlucasbg&count_private=true&show_icons=true&layout=compact&theme=dark&title_color=33ff00&text_color=c6c6c6&icon_color=33ff00&border_color=33ff00&bg_color=0a0a0a&langs_count=10&custom_title=LANGUAGE%20UTILIZATION" alt="Top Languages" />
         </a>
       </div>
     </td>
@@ -160,37 +177,44 @@
       <div align="center">
         <p><strong style="font-family: 'Courier New', monospace; color: #33ff00;">► ACTIVITY HEATMAP ◄</strong></p>
         <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=Juanlucasbg&theme=github-compact&bg_color=0a0a0a&hide_border=true&area=true&color=33ff00&line=33ff00&point=ffb000&custom_title=CONTRIBUTION%20HEATMAP" alt="Activity Graph" />
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=Juanlucasbg&theme=github-compact&bg_color=0a0a0a&hide_border=true&area=true&color=33ff00&line=33ff00&point=33ff00&custom_title=CONTRIBUTION%20HEATMAP" alt="Activity Graph" />
         </a>
       </div>
     </td>
   </tr>
 </table>
+
 <pre style="font-family: 'Courier New', Courier, monospace; background: #0a0a0a; color: #33ff00; line-height: 1.2;">
 └────────────────────────────────────────┴────────────────────────────────────────┘
 </pre>
+
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- TROPHY CASE — SYSTEM ACHIEVEMENTS                                             -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<pre style="font-family: 'Courier New', Courier, monospace; background: #0a0a0a; color: #ffb000; line-height: 1.2;">
+
+<pre style="font-family: 'Courier New', Courier, monospace; background: #0a0a0a; color: #33ff00; line-height: 1.2;">
 ╔═══════════════════════════════════════════════════════════════════════════════╗
 ║                        SYSTEM ACHIEVEMENTS (TROPHIES)                         ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 </pre>
+
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Juanlucasbg&theme=matrix&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
   </a>
 </div>
+
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- CONTRIBUTION SNAKE — SYSTEM LOG VIEWER                                        -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
 <pre style="font-family: 'Courier New', Courier, monospace; background: #0a0a0a; color: #33ff00; line-height: 1.2;">
 ╔═══════════════════════════════════════════════════════════════════════════════╗
 ║                    SYSTEM LOG VIEWER — CONTRIBUTION SNAKE                       ║
 ║                         FILE: SYS1.LOGREC(GITHUB)                             ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 </pre>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juanlucasbg/Juanlucasbg/output/github-contribution-grid-snake-dark.svg" />
@@ -198,23 +222,28 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/Juanlucasbg/Juanlucasbg/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- WAKATIME METRICS — SYSTEM MONITOR                                             -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
 <pre style="font-family: 'Courier New', Courier, monospace; background: #0a0a0a; color: #33ff00; line-height: 1.2;">
 ╔═══════════════════════════════════════════════════════════════════════════════╗
 ║                         WAKATIME SYSTEM MONITOR                               ║
 ║                    CODING HOURS BY LANGUAGE (WEEKLY)                            ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 </pre>
+
 <div align="center">
   <a href="https://wakatime.com/@Juanlucasbg">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Juanlucasbg&theme=dark&title_color=33ff00&text_color=c6c6c6&border_color=ffb000&bg_color=0a0a0a&layout=compact&custom_title=CODING%20METRICS%20(WAKATIME)" alt="WakaTime Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Juanlucasbg&theme=dark&title_color=33ff00&text_color=c6c6c6&border_color=33ff00&bg_color=0a0a0a&layout=compact&custom_title=CODING%20METRICS%20(WAKATIME)" alt="WakaTime Stats" />
   </a>
 </div>
+
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- TECH STACK — SYSTEM CATALOG                                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
 <pre style="font-family: 'Courier New', Courier, monospace; background: #0a0a0a; color: #33ff00; line-height: 1.4;">
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                           SYSTEM CATALOG (TECH STACK)                           │
@@ -245,9 +274,11 @@
 │                                                                                 │
 └─────────────────────────────────────────────────────────────────────────────────┘
 </pre>
+
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- CONNECT — TSO COMMAND INTERFACE                                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
 <pre style="font-family: 'Courier New', Courier, monospace; background: #0a0a0a; color: #33ff00; line-height: 1.4;">
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                        TSO COMMAND INTERFACE (CONNECT)                          │
@@ -267,22 +298,25 @@
 │                                                                                 │
 └─────────────────────────────────────────────────────────────────────────────────┘
 </pre>
+
 <div align="center">
   <p>
     <a href="mailto:juanlucasbarbier05@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/SEND_MAIL-33ff00?style=for-the-badge&logo=gmail&logoColor=0a0a0a&labelColor=33ff00" alt="Gmail" />
     </a>
     <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/TSO_LINKEDIN-ffb000?style=for-the-badge&logo=linkedin&logoColor=0a0a0a&labelColor=ffb000" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/TSO_LINKEDIN-33ff00?style=for-the-badge&logo=linkedin&logoColor=0a0a0a&labelColor=33ff00" alt="LinkedIn" />
     </a>
     <a href="https://github.com/Juanlucasbg" target="_blank">
       <img src="https://img.shields.io/badge/TSO_GITHUB-33ff00?style=for-the-badge&logo=github&logoColor=0a0a0a&labelColor=33ff00" alt="GitHub" />
     </a>
   </p>
 </div>
+
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- FOOTER — SYSTEM STATUS LINE                                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
 <pre style="font-family: 'Courier New', Courier, monospace; background: #0a0a0a; color: #33ff00; line-height: 1.2;">
 ╔═══════════════════════════════════════════════════════════════════════════════╗
 ║  COMMAND ===> ____________________________________________________________  ║
@@ -291,6 +325,7 @@
 ║  PF1=HELP  PF2=SPLIT  PF3=END  PF4=STATS  PF5=RFIND  PF6=CHANGE  PF12=CNCL  ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 </pre>
+
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- END OF JUANLUCASBG 3270 TERMINAL SESSION                                      -->
 <!-- LOGOFF SUCCESSFUL. SESSION TERMINATED.                                         -->

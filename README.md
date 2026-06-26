@@ -25,6 +25,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
+### Most Used Languages
+
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanlucasbg&layout=compact&theme=dark&hide_border=true&langs_count=8)](https://github.com/Juanlucasbg)
+
 ### Commit Activity
 
 [![Commit activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Juanlucasbg&theme=github-compact&hide_border=true&area=true&days=30)](https://github.com/Juanlucasbg)

@@ -25,12 +25,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-### GitHub Stats
+### Commit Activity
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Juanlucasbg&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanlucasbg&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
+[![Commit activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Juanlucasbg&theme=github-compact&hide_border=true&area=true&days=30)](https://github.com/Juanlucasbg)
 
 ### Connect
 
